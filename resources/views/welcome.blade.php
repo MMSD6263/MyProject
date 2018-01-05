@@ -81,7 +81,7 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
-                <div class="title m-b-md">this is myproject test</div>
+                <div class="title m-b-md">myproject</div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
